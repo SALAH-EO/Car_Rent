@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1623019808 source:c:\users\salah mj\desktop\coding experiments\car_rent\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"Structs.h"
+	"Menus.h"
+	"Operations.h"
+
+1622976929 c:\users\salah mj\desktop\coding experiments\car_rent\menus.h
+
+1623012536 c:\users\salah mj\desktop\coding experiments\car_rent\structs.h
+
+1623019969 c:\users\salah mj\desktop\coding experiments\car_rent\operations.h
+
